@@ -1,0 +1,37 @@
+body {
+  background-color:rgb(255, 222, 255);
+}
+h1 {
+  text-align:center;
+  color:rgb(127, 0, 127);
+}
+p {
+  color:rgb(12, 13, 79);
+  font-family:georgia;
+  font-style:italic;
+}
+ul {
+  list-style-type:square;
+  color:rgb(12, 13, 79);
+}
+ol {
+  list-style-type:upper-roman;
+  color:rgb(12, 13, 79);
+}
+caption {
+  color:rgb(12, 13, 79);
+  font-weight:bold;
+}
+#table, th, td {
+  border: 1px solid black;
+  color:rgb(12, 13, 79);
+  border-collapse: collapse;
+  padding:5px;
+}
+#table2 {
+  border: 1px solid black;
+  color:rgb(12, 13, 79);
+  padding:5px;
+  background-color:white;
+}
+
